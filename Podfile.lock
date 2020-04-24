@@ -1,0 +1,16 @@
+PODS:
+  - Layoutless (0.4.1)
+
+DEPENDENCIES:
+  - Layoutless
+
+SPEC REPOS:
+  trunk:
+    - Layoutless
+
+SPEC CHECKSUMS:
+  Layoutless: ba4810c682855373bddc78d9408cc82f970541d0
+
+PODFILE CHECKSUM: fe29f5733e48c5b4cc75fc520f0a2db08d9e4c87
+
+COCOAPODS: 1.9.1
